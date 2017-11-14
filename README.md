@@ -9,7 +9,9 @@ Each commit must contain the title of each section, or the next most appropriate
 * Add a `main.cpp` file in a folder called `Source/`
   * `Source/` is to be parallel to `ConsolesBuilds/`
 
-In `main.cpp`, add the most basic `main` functionality to start a console program.
+Add a file called `main.cpp`:
+* Add the most basic `main` functionality to start a console program.
+* This file must exist in the `Source/` folder.
 
 When everything is completed, and working/compiling/running as expected, add the files to git and commit/push them.
 
@@ -49,3 +51,4 @@ Create an instance of each of these classes in `main()`:
 
 The order in which you output and draw is entirely up to you.
 
+When everything is completed, and working/compiling/running as expected, add the files to git and commit/push them.
