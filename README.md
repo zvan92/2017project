@@ -5,11 +5,11 @@ Each commit must contain the title of each section, or the next most appropriate
 # The Set Up Phase
 
 * Make a console project and put it in a folder called `ConsoleBuilds/VSxxxx`
-  * Example: `Builds/VS2015` for Visual Studio 2015
+  * Example: `ConsoleBuilds/VS2015/` for Visual Studio 2015
 * Add a `main.cpp` file in a folder called `Source/`
   * `Source/` is to be parallel to `ConsolesBuilds/`
 
-In `main.cpp`, and the most basic `main` functionality to start a console program.
+In `main.cpp`, add the most basic `main` functionality to start a console program.
 
 When everything is completed, and working/compiling/running as expected, add the files to git and commit/push them.
 
@@ -46,3 +46,6 @@ class AppropriateDerivedClassName : public AppropriateBaseClassName
 Create an instance of each of these classes in `main()`:
 * Output each of their name.
 * Draw each of their shape.
+
+The order in which you output and draw is entirely up to you.
+
