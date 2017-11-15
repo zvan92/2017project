@@ -36,5 +36,6 @@ int main()
     drawTriangle();
     drawSquare();
 
+    system ("PAUSE");
     return 0;
 }
