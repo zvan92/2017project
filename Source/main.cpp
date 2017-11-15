@@ -36,6 +36,6 @@ int main()
     drawTriangle();
     drawSquare();
 
-    system ("PAUSE");
+    cin.get();
     return 0;
 }

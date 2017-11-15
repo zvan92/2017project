@@ -26,6 +26,7 @@ CVS
 #Visual Studio files
 *.VC.db
 *.db
+*.opendb
 *.[Oo]bj
 *.aps
 *.pch
