@@ -6,28 +6,28 @@ using namespace std;
 
 void drawRectangle()
 {
-    cout << "***************";
-    cout << "*             *";
-    cout << "*             *";
-    cout << "***************";
+    cout << "***************" << endl;
+    cout << "*             *" << endl;
+    cout << "*             *" << endl;
+    cout << "***************" << endl;
 }
 
 void drawTriangle()
 {
-    cout << "   *   ";
-    cout << "  * *  ";
-    cout << " *   * ";
-    cout << "*******";
+    cout << "   *   " << endl;
+    cout << "  * *  " << endl;
+    cout << " *   * " << endl;
+    cout << "*******" << endl;
 }
 
 void drawSquare()
 {
-    cout << "**********";
-    cout << "*        *";
-    cout << "*        *";
-    cout << "*        *";
-    cout << "*        *";
-    cout << "**********";
+    cout << "**********" << endl;
+    cout << "*        *" << endl;
+    cout << "*        *" << endl;
+    cout << "*        *" << endl;
+    cout << "*        *" << endl;
+    cout << "**********" << endl;
 }
 
 int main()
