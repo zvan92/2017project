@@ -1,3 +1,5 @@
+// worked on new changes November 1 2018
+
 // Draws various shapes in a console program
 
 #include <iostream>
